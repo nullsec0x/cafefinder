@@ -1,0 +1,8 @@
+@import "@fontsource/faculty-glyphic";
+@import "@fontsource-variable/playwrite-de-grund";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
